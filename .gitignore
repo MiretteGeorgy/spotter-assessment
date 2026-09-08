@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+scorer_results/
+validation_predictions.csv
+
+~$*.docx
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+
+#actual material, will remove later.
+spotter.ipynb
+Report.docx
